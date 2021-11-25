@@ -23,6 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.white{
+  color: white;
+}
+.nav-link:hover{
+  color:red;
+}
 
 .App-link {
   color: #61dafb;

@@ -15,13 +15,7 @@ const DISHES = [
                 author: "Shanto",
                 date: "2018-10-16T17:57:28.556094Z"
             },
-            {
-                id: 1,
-                rating: 4,
-                comment: "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
-                author: "Karim",
-                date: "2017-09-05T17:57:28.556094Z"
-            },
+         
             {
                 id: 2,
                 rating: 3,
