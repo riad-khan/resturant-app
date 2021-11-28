@@ -24,16 +24,16 @@ class Navigation extends Component{
                             <Collapse navbar isOpen={this.state.isOpen}>
                                 <Nav className="ml-auto">
                                     <NavItem>
-                                        <Link to="/home" className="nav-link white">Home</Link>
+                                        <Link to="home" className="nav-link white">Home</Link>
                                     </NavItem>
                                     <NavItem>
                                         <Link to="/about" className="nav-link white">About us</Link>
                                     </NavItem>
                                     <NavItem>
-                                        <Link to="/menu" className="nav-link white">Menu</Link>
+                                        <Link to="menu" className="nav-link white">Menu</Link>
                                     </NavItem>
                                     <NavItem>
-                                        <Link to="/contact" className="nav-link white">Contact us</Link>
+                                        <Link to="contact" className="nav-link white">Contact us</Link>
                                     </NavItem>
                                 </Nav>
                                 </Collapse>
